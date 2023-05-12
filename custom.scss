@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+// Colors
+$maroon: #7a0019
+$gold: #ffcc33
+$dark-maroon: #5b0013
+$dark-gold: #ffb71e
+$dark-gray: #5a5a5a
+$off-white: #f9f7f6
+
+
+
+
+
+/*-- scss:rules --*/ 
+
+h2 {
+  font-size: calc(1.2rem + .6vw);
+}
+
+.custom-subtitle {
+  font-size: 1.5em;
+}
