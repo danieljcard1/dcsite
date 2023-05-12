@@ -1,0 +1,84 @@
+---
+title: "Research"
+---
+
+## Articles and chapters
+
+Card, D.J. (2023). Boundary Waters: Deliberative experience design for environmental decision making. In Williams, S. (Ed.) Technical Communication for Environmental Action. SUNY Press.
+
+McGreavey, Kelley, Ludden, Card, Cogbill-Seiders, Derek, Gordan, Haynal, Krzus-Shaw, Parks, Petts, Ross, Walker. (2020).“No(t) Camping”: Engaging Intersections of Housing, Transportation, and Environmental Justice through Critical Praxis. Review of Communication. 
+
+Card, D.J. (2019). Off-Target Impacts: Tracing Public Participation in Agri-Biotech Policymaking. Journal of Business and Technical Communication. 
+
+DeVasto, Graham, Card, Kessler. (2019) Interventional Systems Ethnography and Intersecting Injustices: A New Approach for Fostering Reciprocal Community Engagement. Community Literacy Journal.
+
+Card, D.J., Kessler, M.M., Graham, S.S. (2018). Representing without representation: A feminist new material exploration of patient experience in federal pharmaceuticals policy. In A. Booher & J. Jung (Eds.), Feminist Rhetorical Science Studies.
+
+Graham, S. S., Kessler, M. M., Kim, S. Y., Ahn, S., & Card, D. (2018). Assessing perspectivalism in patient participation: An evaluation of FDA patient and consumer representative programs. Rhetoric of Health & Medicine, 1(1), 58-89.
+
+Graham, S.S., Kessler, M.M., Card, D.J., Olson, M., Ahn, S., Sang-Yeon, K. (2016). Conflicts of interest among patient and consumer representatives to FDA Drug Advisory Committees. Annals of Internal Medicine.
+
+Graham, S.S., Harley, A., Kessler, M.M., Roberts, L., DeVasto, D., Card, D.J., Neuner, J., and Kim, S.-Y. (2016). Catalyzing Transdisciplinarity: A Systems Ethnography of Cancer-Obesity Comorbidity and Risk Coincidence. Qualitative Health Research.
+
+Kim, S., Graham, S. S., Ahn, S., Olson, M. K., Card, D. J., Kessler, M. M., DeVasto, D. D., Roberts, L. R., Bubacy, F. A. (2016). Correcting biased Cohen’s Kappa in NVivo. Communication Methods and Measures.
+
+Kelly, A. R., Miller, C. R., Fanning, S. N., Kessler, M. M., Graham, S. S., & Card, D. J. (2015). Expertise and Data in the Articulation of Risk. Poroi, 11(1), 1-9.
+
+## Peer-reviewed proceedings
+
+Le Lay, B. & Card. D. (2022). Toward and Access-Oriented Field: Reciprocity as a Guiding Principle for Capacity-Building in Technical Communication. In 2022 Proceedings of ACM Special Interest Group on the Design of Communication. ACM. 
+
+Breuch, L. A. K., Duin, A. H., Card, D., & Davis, K. (2022, July). Workshop: Forming Advisory Boards in Connection with Technical Communication Academic Programs. In 2022 IEEE International Professional Communication Conference (ProComm) (pp. 244-245). IEEE.
+
+Davis, K., Card, D., Breuch, L. A. K., & Duin, A. H. (2022, July). The Technical Communication Advisory Board: Expanding Professional Pathways for PhD Students in Writing Studies Fields. In 2022 IEEE International Professional Communication Conference (ProComm) (pp. 423-428). IEEE.
+
+G. Ross, D., Card, D., & Gimse, G. (2020, October). Teaching Design through Micro-Assignments: Experience-Based Cases Towards Training Future Design Professionals. In Proceedings of the 38th ACM International Conference on Design of Communication (pp. 1-3).
+
+Batova, T., Clark, D., & Card, D. (2016, October). Challenges of lean customer discovery as invention. In 2016 IEEE International Professional Communication Conference (IPCC) (pp. 1-5). IEEE.
+
+## Conference presentations
+
+Le Lay, B. & Card. D. (2022, October). Toward and Access-Oriented Field: Reciprocity as a Guiding Principle for Capacity-Building in Technical Communication. ACM Special Interest Group on the Design of Communication. Boston, MA.
+
+Davis, K., Card, D., Breuch, L. A. K., & Duin, A. H. (2022, July). The Technical Communication Advisory Board: Expanding Professional Pathways for PhD Students in Writing Studies Fields. IEEE Professional Communication. Limerick, Ireland.
+
+Card, D.J. (2021, November). (In)validating numbers: Toward a rhetorical-computational analysis of bias in narrative evaluations. Association for the Rhetoric of Science, Technology, and Medicine NCA Preconference. Virtual/Seattle, WA.
+
+Card, D.J. & DeVasto, D. (2021, October). Did we solve the right problem? Moving from access to inclusion with experience architecture. SIGDOC '21: the 39th ACM International Conference on Design of Communication (pp. 1-3). Virtual.
+
+Card, D.J. & Gimse, G. (2021, June). Non/developer documentation: Toward learner-centered practices. Association for Teachers of Technical Communication. Virtual.
+
+Card, D.J. (2020, October). Micro-reflections in Markdown. Panel presentation in Teaching Design through Micro-Assignments: Experience-Based Cases Towards Training Future Design Professionals. SIGDOC '20: 38th ACM International Conference on Design of Communication (pp. 1-3). Virtual.
+
+*Card, D.J. (May, 2020 | Cancelled due to COVID). The Three Branches of Hospitality: Epideictic, Deliberative, and Judicial. Panel presentation at Rhetoric Society of America. Portland, OR.
+
+*Card, D.J. (May, 2020 | Cancelled due to COVID). City in the City: Against Urban Renewal by Rhetorical Invention of Hospitable Places. Roundtable presentation at Rhetoric Society of America. Portland, OR.
+
+Card, D.J. (March, 2020 | Cancelled due to COVID). Developer documentation for civic engagement: A learner-centered framework. Association for Teachers of Technical Writing. Milwaukee, WI. 
+
+Card, D.J. (2019). Boundary Waters: Mapping Accountability in Environmental Assessment. Association for Teachers of Technical Writing. Pittsburg, PA. 
+
+Card, D.J. (2018). A Pragmatist Theory of Evidence for Cross-Disciplinary Collaboration. Association for the Rhetoric of Science, Technology, and Medicine. Salt Lake City, UT.
+
+Card, D.J. (2018). Rewriting resilience: Hybrid forum design as engaged rhetoric of science. Association for the Rhetoric of Science, Technology, and Medicine. Minneapolis, MN. 
+
+Card, D.J. (2017). Public inclusion 2.0: Regulations.gov and the value of computational analysis in technical communication. Association for Teachers of Technical Writing. Portland, OR. 
+
+Kim, S., Graham, S. S., Ahn, S., Olson, M. K., Card, D. J., Kessler, M. M., DeVasto, D. D., Roberts, L. R., Bubacy, F. A. (2016). Bias correction for overestimated Kappa in NVivo. Convention of the International Communication Association. Fukuoka, Japan.
+
+Card, D. J. (2015). Agora 2.0: A data-driven assessment of public inclusion in GMO policymaking. National Communication Association. Las Vegas, NV.
+
+Card, D.J., Kessler, M.M., DeVasto, D., Roberts, L., Olson, M.K. & Graham, S.S. (2015). Laboratories and lived experiences: Assessing patient inclusion in FDA pharmaceuticals regulation. National Communication Association. Las Vegas, NV.
+
+Graham, S.S., Kim, S.-Y., Kessler, M.M., Card, D.J., DeVasto, D.M., Ahn, S., Olson, M., Bubacy, F., Roberts, L. (2015). The effects of differential inclusion on FDA pharmaceuticals policy deliberation. International Conference on Science in Society. Chicago, IL.
+
+Graham, S.S., Keith, W., Johnstone, C., Kim, S-Y., Card, D.J., Kessler, M.M., Anderson, C. (2014). Innovation adoption following continuing education: A mixed methods pilot study of oncology-related meetings. Society for Academic Continuing Medical Education. Cincinnati, OH.
+
+Kessler, M.M., Graham, S.S., Card, D.J., Keith, W.M., Anderson, C. (2014). Packaging risk of innovation adoption: A rhetorical ethnography of continuing medical education. Association for the Rhetoric of Science and Technology. Chicago, IL.
+
+Graham, S.S., Card, D.J., Kessler, M.M., Keith, W.M., Kim, S-Y., & Hartke D.M. (2014). The effects of differential inclusion on FDA pharmaceuticals policy deliberation. National Communication Association. Chicago, IL.
+
+Graham, S.S., Keith, W.M., Kessler, M.M., Card, D.J., Kim, S-Y. (2014). A data-driven approach to genre analysis: Statistical typification and argumentative outcomes modeling. Association for Teachers of Technical Writing. Indianapolis, IN.
+
+
+
